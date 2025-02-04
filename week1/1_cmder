@@ -18,6 +18,6 @@ move a file: mv *filename* *directorynaee*\
 mv helloworld.py pans2025\
 
 
-
+cat mypistprog.py  will show you the content of the file 
 
 
